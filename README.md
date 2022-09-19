@@ -17,7 +17,7 @@
 |01|22/08/30|cs224n 1강|조서영, 손소현|[📚](https://github.com/Ewha-Euron/2022-02-Euron-NLP/blob/master/NLP_Week01.pdf)|
 |02|22/09/06|cs224n 2강|김경민, 문예지|[📚](https://github.com/Ewha-Euron/2022-02-Euron-NLP/blob/master/NLP_Week02.pdf)|
 |03|22/09/13|cs224n 3강|송혜준, 송민경|[📚](https://github.com/Ewha-Euron/2022-02-Euron-NLP/blob/master/NLP_Week03.pdf)|
-|04|22/09/20|cs224n 4강|권재선, 주연우|[📚]|
+|04|22/09/20|cs224n 4강|권재선, 주연우|[📚](https://github.com/Ewha-Euron/2022-02-Euron-NLP/blob/master/NLP_Week04.pdf)|
 |05|22/09/27|cs224n 5강|김수한, 김경민|[📚]|
 |06|22/10/04|cs224n 6강|문예지, 송혜준|[📚]|
 |07|22/10/25|cs224n 7강|송민경, 권재선|[📚]|
