@@ -28,7 +28,7 @@
 |14|22/11/29|cs224n 13강|주연우, 김경민|[📚](https://github.com/Ewha-Euron/2022-02-Euron-NLP/blob/master/NLP_Week14.pdf)|
 |15|22/12/20|cs224n 14강|송민경, 권재선|[📚](https://github.com/Ewha-Euron/2022-02-Euron-NLP/blob/master/NLP_Week15.pdf)|
 |16|22/12/27|cs224n 15강|송혜준, 주연우|[📚](https://github.com/Ewha-Euron/2022-02-Euron-NLP/blob/master/NLP_Week16.pdf)|
-|17|23/01/03|cs224n 18강|문예지, 김수한|[📚]|
+|17|23/01/03|cs224n 18강|문예지, 김수한|[📚](https://github.com/Ewha-Euron/2022-02-Euron-NLP/blob/master/NLP_Week17.pdf)|
 |18|23/01/10|cs224n Low Resource Machine Translation|문예지, 송혜준|[📚]|
 |19|23/01/17|cs224n BERT and Other Pre-trained Language Models|주연우, 송민경|[📚]|
 
